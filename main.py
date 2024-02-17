@@ -17,5 +17,4 @@ def main():
     controller.show_user_details()
 
 if __name__ == "__main__":
-    print("Atun")
     main()
