@@ -1,0 +1,35 @@
+Crear gacha sobre Raid Shadow Legend
+
+- Personajes: ¿mitología? arpías, grifos, fénix
+    · Humano, ogro, elfos, no muertos, cambiapieles ...
+
+- Rarezas:
+    * Común, raro, muy raro, exotico, legendario, leyenda(?)
+
+- Habilidades: (con pasivas dependiendo de la rareza)
+    - Normales
+        * Cooldown
+    - Ultimate
+
+- Tipos: agua, fuego...
+
+- Sistema de subir de nivel: 
+    · Empieza a lvl 1 y para subir al lvl2, necesitas sacrificar otro lvl 1
+
+- Menús de la app:
+    · Inicio de sesión parecido a PokeMMO.
+        * Cuadro con usuario | contraseña con modo admin para gestionar personajes (cambiar stats, CRUD personajes)
+
+- Estadísticas:
+    · Experiencia (para ver cuando suben de lvl)
+    · Daño
+    · Defensa
+    · Vida
+    · Velocidad
+    · Prob. crítico
+    · Resistencia
+
+SISTEMA DE GACHAPON:
+- Moneda: cristales
+- Tipos de banners: single y multis (como dokkan)
+    
