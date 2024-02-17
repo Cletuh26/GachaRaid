@@ -28,8 +28,8 @@ Crear gacha sobre Raid Shadow Legend
     · Velocidad
     · Prob. crítico
     · Resistencia
-
+    
 SISTEMA DE GACHAPON:
 - Moneda: cristales
 - Tipos de banners: single y multis (como dokkan)
-    
+    Ismael la chupa
