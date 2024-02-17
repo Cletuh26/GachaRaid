@@ -1,0 +1,30 @@
+# Comando para añadir cambios de los ficheros
+git add .
+
+# Comando para guardar cambios de ficheros
+git commit -m "[mensaje]"
+
+# Comando para subir los cambios al repositorio remoto
+git push
+Nota: si sale error, copiar y pegar comando que te dice en la consola (algo como "git push --set-upstream origin [nombre_rama])
+
+# Comando para cambiar de ramas existentes
+git checkout [nombre_rama]
+
+# Comando para crear una rama y cambiarte directamente al crearla
+git checkout -b [nombre_rama]
+
+# Comando para ver las ramas creadas en local (en tu VSCODE)
+git branch -l
+
+# Comando para traerte los cambios más recientes del repositorio remoto a tu ordenador
+OJO: Cambiar primero a la rama donde estan los cambios que te quieres traer
+git pull
+
+# Comando para mergear cambios de una rama a otra
+OJO: Hacer desde la rama de destino
+git merge [nombre_rama_origen]
+
+# Comando para resolver errores en caso que hubiesen
+OJO: Hacer desde la rama de destino
+git merge --continue
